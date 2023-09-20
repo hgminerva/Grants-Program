@@ -1,13 +1,9 @@
-# Name of your Project
+# Humidefi - The XGame platform (NFT, DeFi, DAO)
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
->
-> See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **Team Name:** Humidefi
+- **Payment Address:** [5CfWkGnSnG89mGm3HjSUYHfJrNKmeyWgix5NKAMqePu4csgP] USDC/Polkadot
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
 
-> :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 ## Project Overview :page_facing_up:
 
 If this application is in response to an RFP, please indicate this on the first line of this section.
@@ -16,14 +12,23 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Please provide the following:
+Humidefi is a blockchain platform that supports Smart Contracts and Decentralized Financial (DeFi) activities, e.g., stable coins, swaps, exchanges, loans, etc.
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+The main application on the Humidefi blockchain platform is XGame.  XGame provides a portal for virtual assets found in games and other multiverse activities to become real.  
+
+On the first year of its operation, the Humidefi XGame node will integrate with Kusama then the succeding years would hopefully be Polkadot.  As more games being developed and deployed in XGame and more active users, our Decentralize Financial (DeFi) modules will eventually be deployed to help the users make the transfer from virtual to real.
+
+Our team has been successful in developing Web2 projects from conceptualization to marketing and eventually sold to an external investors.  It is our relentless effort to provide value on a technology that we take pride.  This is the same team that won the Polkadot US Hackathon 2022 under DeFi category.
 
 ### Project Details
+
+- General Architectural Overview
+- Web (www.xgame.live, www.xgame.co)
+- Mobile
+- Blockchain API
+- Community
+- AI
+- Administration and Support
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
