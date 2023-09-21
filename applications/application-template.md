@@ -1,85 +1,112 @@
-# Name of your Project
+# Humidefi
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **Team Name:** Humidefi
+- **Payment Address:** 
+- **[Level] 1
 
 > :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
+​The Humidefi serves as a pivotal hub in the world of decentralized finance, offering a dynamic ecosystem centered around two core components: UMI, our native token, and PHPU, a meticulously collateralized stablecoin pegged to the Philippine Peso. What sets Humidefi apart is its robust support for Smart Contracts, which serves as a catalyst for empowering software engineers to effortlessly embark on their journey into the realm of Web3.0 app development. Our mission is to not only redefine financial paradigms but also foster an environment where innovation thrives and where everyone, from developers to users, can actively participate in shaping the future of decentralized finance
 
 ### Overview
 
-Please provide the following:
+As a decentralized finance hub, it enables you
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+- Buy Cryptocurrency – You will have a the ability to buy UMI and PHPU using facilities like Transak and GCash.
+-Pay in Cryptocurrency – You pay directly anywhere your suppliers. You could even pay bills, utilities, and taxes.
+- Invest with Cryptocurrency – With UMI, you can invest in staking pools or even Parachains and Parathreads. We are also going to create a loan facility for PHPU.
+- Swap between Cryptocurrencies – Swapping different currency cost a lot due to Forex fees, with Humidefi, you can swap with almost no fees.
+-Redeem your stable coin to local currency - With PHPU, you can withdraw anytime using any partner banks and payment facilities.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
+- Blockchain 
+We will be using Substrate. At the start we will be using a modified Proof-of-Authority (PoA) which rewards the known validators for authoring a block. We will add Smart Contract support to the Blockchain.
+
+-Stable Coin (PHPU)
+One of the pillars of a decentralized finance application is the stable coin. We will be making a collateralized stable coin peg to the Philippine Pesos. 
+Creating a virtual asset in the Philippines requires investment, hence, we will be partnering with local banks to make this happen.
+- Applications (UI)
+In order for user faster adaptation we will be building a UI that can be used on the web and in mobile devices. Our UI will focus on the features and integration to other applications to provide a smooth transition process of converting local currency to Cryptocurrency.
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+We will provide UI for blockchain transparency, e.g., scanner, blockchain monitoring, validator node management, etc. These application is very important to not just the users who wants total transparency but also to developers trying to understand how a Blockchain works.
+We are also going to build a stable coin inventory and accounting system, this will empower the virtual asset holder to manage the Cryptocurrency efficiently
 
 
-Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
-- The (future) tokenomics of your project 
-- For non-infrastructure projects—deployment and hosting costs, maintenance or audits
-- Business-oriented activities (marketing, business planning), events or outreach
+
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+The Humidefi embodies a dynamic ecosystem, comprising five essential components, each contributing to the vision of creating a more inclusive and interconnected world of decentralized finance." Certainly, here are five essential components of the Humidefi ecosystem:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+
+-  Financial Inclusion: By pegging PHPU to the Philippine Peso and offering accessible DeFi services, Humidefi can contribute to greater financial inclusion, allowing individuals in the Philippines and beyond to access banking and financial services that may have been previously out of reach.
+
+- Smart Contract Development: Humidefi's support for Smart Contracts opens the door for developers, especially those new to Web3.0 app development, to easily create and deploy decentralized applications, contributing to the growth of the DeFi developer community.
+- Stablecoin Adoption: The adoption of PHPU, a stablecoin pegged to a fiat currency, can encourage more people to enter the DeFi space with a stable and reliable digital currency, thereby contributing to the overall stability and liquidity of the DeFi ecosystem.
+
+- Governance Participation: Humidefi's community-driven governance model empowers token holders to actively participate in decision-making processes, setting a precedent for decentralized governance and promoting greater user involvement across the broader DeFi landscape.
+
+  -Interoperability and Collaboration: Through partnerships and cross-chain integration, Humidefi can foster greater interoperability with other DeFi projects and blockchain networks, contributing to a more interconnected and collaborative DeFi ecosystem that benefits users and stakeholders across different platforms.
+
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Harold Glenn Minerva ( Product Owner)
+- Noah Oliver Rigonan ( Back-end & Front-end Engineer)
+- Oliver Rigonan ( Back-end & Front-end Engineer)
+- Mary Hope Lacsi ( Back-end & Front-end Engineer)
+- Ernesto Almario ( Fron-end Engineer)
+
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** Your website
+- **Contact Name:** Harold Glenn Minerva
+- **Contact Email:** hgminerva@gmail.com
+- **Website:**  http://hgminerva.wordpress.com
+
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** A
+- **Registered Legal Entity:** 
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. 
+- Entrepreneurship and Business Ventures:
+Over the past two decades, successfully initiated and sold multiple software-based companies.Specialized in the development and design of software products with a local focus.Proficient in creating Line-of-Business (LOB) software, encompassing areas like accounting, payroll, and retail point-of-sale applications.Demonstrated adaptability by tailoring products for both local and international markets.
+ 
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+- Technology Competition and Recognition:
+Attained notable recognition as the 3rd place winner in the Polkadot Hackathon: North America Editio
+
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/</hgminerva/humidefi-node>
+- https://github.com/<hgminerva/humidefi-scan>
+- https://github.com/<hgminerva/humidefi-token-phpu>
+- https://github.com/<hgminerva/humidefi-doc>
+- https://github.com/<hgminerva/humidefi-landing>
+- https://github.com/<hgminerva/humidefi-contracts>
+- https://github.com/<hgminerva/humidefi-jobs-dex>
+- https://github.com/<hgminerva/humidefi-scanner>
+- https://github.com/<hgminerva/humidefi-archive>
+- https://github.com/<hgminerva/humidefi-app-defi>
+- https://github.com/<hgminerva/humidefi-cumulus>
+- https://github.com/<hgminerva/humidefi-parachain>
+- https://github.com/<hgminerva/humidefi-parachain-v2>
+
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
