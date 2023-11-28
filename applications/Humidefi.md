@@ -108,11 +108,9 @@ SEC No.: CS201811079
 * XGame Homepage: https://github.com/oress-ph/oress-xgame-homepage-ui
 * XGame NFT Marketplace: https://github.com/oress-ph/oress-xgame-marketplace-ui
 * XGame Dashboard: https://github.com/oress-ph/oress-xgame-dashboard-ui
-
 * Exchange UI: https://github.com/oress-ph/oress-xgame-exchange-ui
 * Exchange API: https://github.com/oress-ph/oress-xgame-exchange-api
 * Exchange Datasource (Binance): https://github.com/oress-ph/oress-xgame-exchange-web-socket
-
 * Mobile Wallet:
 * AstroChibbi Rest API:
 * AstroChibbi Smart Contracts:
