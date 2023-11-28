@@ -31,7 +31,9 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
     2. Smart Contracts: If the blockchain supports smart contracts, developers can include code for these contracts within the parachain code.
     3. Consensus Mechanism: The code also includes the rules for achieving consensus within the parachain, determining how blocks are produced and validated.
     4. Custom Features: Developers can implement custom features, governance mechanisms, or any other functionality they want the parachain to support.
-2. Ink!
+2. **Ink!** - is a smart contract library specifically developed for Substrate. It provides a set of tools, abstractions, and utilities that make it easier for developers to write smart contracts on the Substrate framework.
+    1. Rust Programming Language: ink! smart contracts are written in the Rust programming language, which is known for its performance, safety, and expressive syntax.
+    2. Integration with Substrate: ink! is tightly integrated with the Substrate framework, allowing developers to leverage Substrate's modular architecture and features when building their smart contracts.
 3. Polkadot.JS
 4. Node.JS
 5. Angular
