@@ -28,10 +28,10 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
 
 1. Substrate
 Humidefi is a custom parachain using Substrate, change of behavior in Humidefi is done by modifying the code that specifies the rules and functionality unique to the blockchain. It includes:
-1.1. Runtime Modules: These are components of the blockchain that define the rules for transactions, state transitions, and other aspects of the blockchain's behavior.
-1.1. Smart Contracts: If the blockchain supports smart contracts, developers can include code for these contracts within the parachain code.
-1.1. Consensus Mechanism: The code also includes the rules for achieving consensus within the parachain, determining how blocks are produced and validated.
-1.1. Custom Features: Developers can implement custom features, governance mechanisms, or any other functionality they want the parachain to support.
+- 1.1. Runtime Modules: These are components of the blockchain that define the rules for transactions, state transitions, and other aspects of the blockchain's behavior.
+- 1.1. Smart Contracts: If the blockchain supports smart contracts, developers can include code for these contracts within the parachain code.
+- 1.1. Consensus Mechanism: The code also includes the rules for achieving consensus within the parachain, determining how blocks are produced and validated.
+- 1.1. Custom Features: Developers can implement custom features, governance mechanisms, or any other functionality they want the parachain to support.
 
 2. Ink!
 
