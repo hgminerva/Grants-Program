@@ -102,20 +102,20 @@ SEC No.: CS201811079
 ### Team Code Repos
 
 #### Humidefi 
-- Parachain: https://github.com/Blockspace-Corporation/humidefi-parachain-v2
+* Parachain: https://github.com/Blockspace-Corporation/humidefi-parachain-v2
 
 #### XGame 
-- XGame Homepage: https://github.com/oress-ph/oress-xgame-homepage-ui
-- XGame NFT Marketplace: https://github.com/oress-ph/oress-xgame-marketplace-ui
-- XGame Dashboard: https://github.com/oress-ph/oress-xgame-dashboard-ui
+* XGame Homepage: https://github.com/oress-ph/oress-xgame-homepage-ui
+* XGame NFT Marketplace: https://github.com/oress-ph/oress-xgame-marketplace-ui
+* XGame Dashboard: https://github.com/oress-ph/oress-xgame-dashboard-ui
 
-- Exchange UI: https://github.com/oress-ph/oress-xgame-exchange-ui
-- Exchange API: https://github.com/oress-ph/oress-xgame-exchange-api
-- Exchange Datasource (Binance): https://github.com/oress-ph/oress-xgame-exchange-web-socket
+* Exchange UI: https://github.com/oress-ph/oress-xgame-exchange-ui
+* Exchange API: https://github.com/oress-ph/oress-xgame-exchange-api
+* Exchange Datasource (Binance): https://github.com/oress-ph/oress-xgame-exchange-web-socket
 
-- Mobile Wallet:
-- AstroChibbi Rest API:
-- AstroChibbi Smart Contracts:
+* Mobile Wallet:
+* AstroChibbi Rest API:
+* AstroChibbi Smart Contracts:
 
 #### Team Github Profile
 * Engr. Harold Glenn Minerva - https://github.com/hgminerva
