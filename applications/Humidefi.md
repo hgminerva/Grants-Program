@@ -1,8 +1,8 @@
-# Humidefi - The XGame platform (NFT, DeFi, DAO)
+# Humidefi (The XGame platform)
 
 - **Team Name:** Humidefi
 - **Payment Address:** [5CfWkGnSnG89mGm3HjSUYHfJrNKmeyWgix5NKAMqePu4csgP] USDC/Polkadot
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 ## Project Overview :page_facing_up:
 
@@ -18,33 +18,23 @@ The main application on the Humidefi blockchain platform is XGame.  XGame provid
 
 On the first year of its operation, the Humidefi XGame node will integrate with Kusama then the succeding years would hopefully be Polkadot.  As more games being developed and deployed in XGame and more active users, our Decentralize Financial (DeFi) modules will eventually be deployed to help the users make the transfer from virtual to real.
 
-Our team has been successful in developing Web2 projects from conceptualization to marketing and eventually sold to an external investors.  It is our relentless effort to provide value on a technology that we take pride.  This is the same team that won the Polkadot US Hackathon 2022 under DeFi category.
-
 ### Project Details
 
-- General Architectural Overview
-- Web (www.xgame.live, www.xgame.co)
-- Mobile
-- Blockchain API
-- Community
-- AI
-- Administration and Support
+#### Architecture
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+![Humidefi](https://drive.google.com/uc?id=1HZoU201KztQr-1L5yFV-bqtvGeOIX8Rb)
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+#### Technologies
 
+#### Components
 
-Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
-- The (future) tokenomics of your project 
-- For non-infrastructure projects—deployment and hosting costs, maintenance or audits
-- Business-oriented activities (marketing, business planning), events or outreach
+1. **Humidefi Parachain Node**  
+2. **Smart Contracts**  
+3. **Rest API (Dapps)**
+4. **Polkadot.JS**
+5. **Web Apps**
+6. **Mobile Wallet**
+7. **Games**
 
 ### Ecosystem Fit
 
@@ -61,41 +51,79 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+* Engr. Harold Glenn Minerva
+* Noah Oliver Rigonan
+* Oliver Enciso
+* Caesar Ditan
+* Ernesto Almario
+* Joel Villena
+* Michael Ian Kurt Descalso 
+* Richlyn Vergara
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** Your website
+- **Contact Name:** Harold Glenn P Minerva
+- **Contact Email:** hgminerva@liteclerk.com
+- **Website:** https://www.liteclerk.com
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** 
+Liteclerk Corporation
+211 V. Rama Avenue Corner B. Rodriguez St. 
+Cebu City, Philippines, 6000
+- **Registered Legal Entity:** 
+Liteclerk Corporation
+SEC No.: CS201811079
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. 
-
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+* Engr. Harold Glenn Minerva
+* Noah Oliver Rigonan
+* Oliver Enciso
+* Caesar Ditan
+* Ernesto Almario
+* Joel Villena
+* Michael Ian Kurt Descalso 
+* Richlyn Vergara
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+#### Humidefi 
+- Parachain: https://github.com/Blockspace-Corporation/humidefi-parachain-v2
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+#### XGame 
+- XGame Homepage: https://github.com/oress-ph/oress-xgame-homepage-ui
+- XGame NFT Marketplace: https://github.com/oress-ph/oress-xgame-marketplace-ui
+- XGame Dashboard: https://github.com/oress-ph/oress-xgame-dashboard-ui
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- Exchange UI: https://github.com/oress-ph/oress-xgame-exchange-ui
+- Exchange API: https://github.com/oress-ph/oress-xgame-exchange-api
+- Exchange Datasource (Binance): https://github.com/oress-ph/oress-xgame-exchange-web-socket
+
+- Mobile Wallet:
+- AstroChibbi Rest API:
+- AstroChibbi Smart Contracts:
+
+#### Team Github Profile
+* Engr. Harold Glenn Minerva - https://github.com/hgminerva
+* Noah Oliver Rigonan - https://github.com/oliverrigonan 
+* Oliver Enciso - https://github.com/encisooliver
+* Ernesto Almario - https://github.com/ernesr456
+* Joel Villena - https://github.com/villenaj
+* Michael Ian Kurt Descalso - https://github.com/kurtdescalso 
+* Richlyn Vergara - https://github.com/richlynvergara 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
-
+* Engr. Harold Glenn Minerva - https://www.linkedin.com/in/harold-glenn-minerva-1789a254/
+* Noah Oliver Rigonan - https://www.facebook.com/profile.php?id=100000558750786
+* Oliver Enciso - https://www.linkedin.com/in/oliverenciso/ 
+* Caesar Ditan - https://www.linkedin.com/in/caesarditan/ 
+* Ernesto Almario - https://www.linkedin.com/in/ernesto-almario-4a9162191/
+* Joel Villena - https://www.linkedin.com/in/villenaj43
+* Michael Ian Kurt Descalso - https://www.linkedin.com/in/michael-ian-kurt-descalso-b55778259/ 
+* Richlyn Vergara - https://www.linkedin.com/in/richlyn-c-vergara-169562199/ 
 
 ## Development Status :open_book:
 
