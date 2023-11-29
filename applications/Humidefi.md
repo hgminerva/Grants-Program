@@ -62,12 +62,12 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
     1. Fastify: Fastify is a web framework for building efficient and low-overhead web applications in Node.js. It is designed to be lightweight, highly performant, and focused on speed. Fastify is known for its minimal overhead, which makes it one of the fastest web frameworks available for Node.js.
     2. Polkadot.JS:  A suite of tools that includes various libraries and applications, enabling back-end developers and users to interact with the Humidefi Parachain.
 4. **Web App** - All web apps in XGame and Humidefi will be built using Angular.
-    1. Homepage: 
-    2. NFT Marketplace:
-    3. Dashboard Wallet:
-    4. Exchange: 
-5. **Mobile App Wallet**
-6. **Games**
+    1. Homepage: The main page or entry point of XGame that is part of the Humidefi ecosystem. A user interface for all decentralized applications in XGame as well as all contents related to XGame, e.g., Blogs, News and Updates, Game Catalog, etc.
+    2. NFT Marketplace: A web application designed to facilitate the buying, selling, and trading of digital assets represented as NFTs.  NFTs are unique cryptographic tokens that are often used to represent ownership of digital or physical items in XGame. 
+    3. Dashboard Wallet: A user interface that allows individuals to interact with their Humidefi wallets and manage their blockchain-based assets and activities. The dashboard wallet enables the users to securely store, manage, and transact with their blockchain-based assets, including cryptocurrencies and non-fungible tokens (NFTs).
+    4. Exchange: A cryptocurrency exchange that operates within the Humidefi ecosystem.  XGame exchange leverages blockchain and decentralized finance (DeFi) principles to offer users greater control over their funds and a more trustless trading experience.
+5. **Mobile App Wallet** - A mobile application that enables users to interact with and manage their cryptocurrency assets including NFT and decentralized applications (DApps) built on Humidefi.  The app serves also a the gateway for the gaming catalog of XGame.
+6. **Games** - Web3 games built on Unity that leverages Humidefi Parachain features for various purposes, including asset ownership, decentralized finance (DeFi) mechanics, and play-to-earn models.
 
 ### Ecosystem Fit
 
