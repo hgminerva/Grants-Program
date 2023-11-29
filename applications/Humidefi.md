@@ -71,14 +71,11 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
-
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+1. **Polkado Ecosystem User Enabler**
+2. **Game Developers**
+3. **DeFi for Game Developers and Gamers**
+4. **Wemix**
+5. **XGame Strategy**
 
 ## Team :busts_in_silhouette:
 
