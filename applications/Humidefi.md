@@ -53,12 +53,20 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
     1. Consensus: Nominated Proof-of-Stake (NPoS), NPoS allows token holders, known as nominators, to nominate validators. Nominators essentially back validators by placing their stake behind them, increasing the validator's chance of being selected to produce blocks.
     2. Decetralized Finance (DeFi) Module: A DeFi module is a set of pallets within the Humidefi Parachain. This module would contain the logic, storage items, and dispatchable functions related to decentralized finance operations.
     3. Smart Contracts Module: Enabling pallet_contracts which provides support for smart contracts on Humidefi Parachain.  It allows developers to deploy, interact with, and manage smart contracts in Humidefi Parachain. This module is designed to work with the Ink! smart contract library.
-    4. Governance: 
-    5. Interoperability: 
-2. **Smart Contracts**  
-3. **Rest API**
-4. **Web Apps**
-5. **Mobile Wallet**
+    4. Governance: To add governance in Humidefi Parachain it will involve setting up the necessary modules and parameters to enable decentralized decision-making and on-chain governance mechanisms through the pallet_democracy module.
+    5. Interoperability: Humidefi Parachain will implement the Cross-Chain Message Passing (XCMP) protocol. XCMP allows messages to be passed between parachains, enabling interoperability.
+2. **Smart Contracts**  - ink! allows developers to write smart contracts in Rust, a systems programming language known for its performance, memory safety, and expressive syntax.   
+    1. Substrate Integration: ink! is designed to seamlessly integrate with Substrate, a modular blockchain framework. Substrate allows developers to customize the blockchain runtime, and ink! provides the smart contract logic within this runtime.
+    2. WebAssembly (Wasm) Execution: Smart contracts written using ink! are compiled to WebAssembly (Wasm), a binary instruction format that is designed to be executed at near-native speed in a safe and efficient manner. Wasm allows for cross-platform execution, making smart contracts portable across different blockchain environments.
+3. **Rest API** - A RESTful API adheres to a set of principles that enable the creation of scalable and interoperable services. These principles include the use of standard HTTP methods (GET, POST, PUT, DELETE), stateless communication, resource-based URLs, and a uniform interface.
+    1. Fastify: Fastify is a web framework for building efficient and low-overhead web applications in Node.js. It is designed to be lightweight, highly performant, and focused on speed. Fastify is known for its minimal overhead, which makes it one of the fastest web frameworks available for Node.js.
+    2. Polkadot.JS:  A suite of tools that includes various libraries and applications, enabling back-end developers and users to interact with the Humidefi Parachain.
+4. **Web App** - All web apps in XGame and Humidefi will be built using Angular.
+    1. Homepage: 
+    2. NFT Marketplace:
+    3. Dashboard Wallet:
+    4. Exchange: 
+5. **Mobile App Wallet**
 6. **Games**
 
 ### Ecosystem Fit
