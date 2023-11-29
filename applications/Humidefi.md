@@ -26,7 +26,7 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
 
 #### Technologies
 
-1. **Substrate** - Humidefi is a custom parachain using Substrate, change of behavior in Humidefi is done by modifying the code that specifies the rules and functionality unique to the blockchain. It includes
+1. **Substrate** - Humidefi is a custom parachain using Substrate, change of behavior in Humidefi is done by modifying the code that specifies the rules and functionality unique to Substrate. It includes
     1. Runtime Modules: These are components of the blockchain that define the rules for transactions, state transitions, and other aspects of the blockchain's behavior.
     2. Smart Contracts: If the blockchain supports smart contracts, developers can include code for these contracts within the parachain code.
     3. Consensus Mechanism: The code also includes the rules for achieving consensus within the parachain, determining how blocks are produced and validated.
@@ -34,21 +34,32 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
 2. **Ink!** - is a smart contract library specifically developed for Substrate. It provides a set of tools, abstractions, and utilities that make it easier for developers to write smart contracts on the Substrate framework.
     1. Rust Programming Language: ink! smart contracts are written in the Rust programming language, which is known for its performance, safety, and expressive syntax.
     2. Integration with Substrate: ink! is tightly integrated with the Substrate framework, allowing developers to leverage Substrate's modular architecture and features when building their smart contracts.
-3. Polkadot.JS
-4. Node.JS
-5. Angular
-6. MySQL
-7. Unity
+3. **Polkadot.JS** - is a collection of JavaScript libraries and tools provided by Parity Technologies for interacting with the Polkadot network and Substrate-based blockchains. It is a suite of tools that includes various libraries and applications, enabling developers and users to interact with the Polkadot and Substrate ecosystems.
+4. **Node.JS** - is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It is designed to build scalable and high-performance network applications. Node.js is built on the V8 JavaScript runtime engine, which is the same engine that powers the Google Chrome browser. It allows the team to use JavaScript for server-side scripting, enabling the development of server-side applications using a single programming language.
+5. **Angular** - is a powerful open-source front-end web application framework maintained by Google. Angular is written in TypeScript, a superset of JavaScript that adds static typing to the language.  Key features and concepts of Angular include:
+    1. Component-Based Architecture: Components encapsulate the application's logic, structure, and styling, promoting reusability and maintainability.
+    2. Two-Way Data Binding: This feature allows automatic synchronization of data between the model and the view, eliminating the need for manual DOM manipulation.
+    3. Dependency Injection: Angular uses a hierarchical dependency injection system, making it easy to manage and inject dependencies throughout an application.
+    4. Directives: Angular introduces a powerful set of directives, including structural directives like ngIf and ngFor, which enable dynamic manipulation of the DOM.
+    5. Services: Services in Angular are singletons that provide a way to encapsulate and share functionality across components. 
+    6. Routing: Angular provides a powerful routing system for building single-page applications. 
+    7. Observables and Reactive Programming: Angular leverages reactive programming and observables for handling asynchronous operations, such as HTTP requests.
+6. **MySQL** - is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured data. It is part of the LAMP stack (Linux, Apache, MySQL, PHP/Python/Perl) and is often used in conjunction with web applications to store and retrieve data.
+7. **Unity** - is a powerful and widely used cross-platform game development engine and framework. It allows developers to create 2D, 3D, augmented reality (AR), and virtual reality (VR) applications for various platforms, including desktops, consoles, mobile devices, and the web. 
 
 #### Components
 
-1. **Humidefi Parachain Node**  
+1. **Humidefi Parachain Node**  - Humidefi is a parachain that connects to the Polkadot relay chain, which serves as the main chain in the network. Humidefi is customized and designed to serve gaming and metaverse activity purpose, e.g., XGame, with built-in decentralized finance modules.
+    1. Consensus: Nominated Proof-of-Stake (NPoS), NPoS allows token holders, known as nominators, to nominate validators. Nominators essentially back validators by placing their stake behind them, increasing the validator's chance of being selected to produce blocks.
+    2. Decetralized Finance (DeFi) Module: A DeFi module is a set of pallets within the Humidefi Parachain. This module would contain the logic, storage items, and dispatchable functions related to decentralized finance operations.
+    3. Smart Contracts Module: Enabling pallet_contracts which provides support for smart contracts on Humidefi Parachain.  It allows developers to deploy, interact with, and manage smart contracts in Humidefi Parachain. This module is designed to work with the Ink! smart contract library.
+    4. Governance: 
+    5. Interoperability: 
 2. **Smart Contracts**  
-3. **Rest API (Dapps)**
-4. **Polkadot.JS**
-5. **Web Apps**
-6. **Mobile Wallet**
-7. **Games**
+3. **Rest API**
+4. **Web Apps**
+5. **Mobile Wallet**
+6. **Games**
 
 ### Ecosystem Fit
 
