@@ -12,6 +12,7 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
+#### Problem
 Porting traditional game projects to Web3, which involves integrating blockchain and decentralized technologies, presents several challenges for game developers. 
 1. Scalability Issues: Blockchain networks, especially those that are decentralized, may face scalability challenges, leading to slower transaction speeds and higher fees. This can impact the user experience in games that require a high level of interactivity and responsiveness.
 2. User Onboarding and Complexity: Web3 games often require users to have a basic understanding of blockchain technology, wallets, and cryptocurrencies. Onboarding players who are new to these concepts can be challenging and may create a barrier to entry for mainstream audiences.
@@ -19,7 +20,12 @@ Porting traditional game projects to Web3, which involves integrating blockchain
 4. Security Concerns: Blockchain transactions involve cryptographic keys, and the security of these keys is paramount. Developers must implement robust security measures to protect user assets and prevent unauthorized access or fraud.
 5. Interoperability Challenges: Achieving interoperability between different blockchain networks and standards can be complex. Developers may face challenges when trying to integrate assets or data from one blockchain into another.
 
+#### Solution
 Humidefi is a Parachain in the Polkadot Ecosystem that has in-block Governance with Proof-Stake-Consensus mechanism, Smart Contracts and Decentralized Finace (DeFi) pallets and modules, e.g., stable coins, swaps, exchanges, loans, etc.  The main application of  Humidefi Parachain is XGame.  XGame provides a portal for game developers and virtual assets found in games and other multiverse activities to become real through the use of DeFi modules.
+1. Scalability Issues: Parachains in the Polkadot network are designed to address scalability by allowing multiple blockchains (parachains) to run in parallel, rather than on a single chain. This parallel processing capability enhances the scalability of the entire Polkadot network. Humidefi as a Parachain is design to handle specific application geared toward Web3 Gaming with DeFi modules while running in parallel with the Polkadot network.
+2.  User Onboarding and Complexity: XGame will provide the game developers and gamers user-friendly applications, e.g., NFT Marketplace, Dashboard Wallet, Exchange, etc., tailored fit to the needs of the define audience to be able to execute game Web3 porting with DeFi activities.  
+3. Transaction Costs: Humidefi as a Parachain executes Layer 2 Solutions to mitigate transactions cost.  Layer 2 scaling solutions can offload  transactions from Polkadot to a Parachain. These solutions, such as sidechains or state channels, can significantly reduce transaction costs and increase throughput since all processing are done in the Layer 2 blockchain while Polkadot will only provide block validation and security.
+4. Security Concerns:
 
 
 ### Project Details
