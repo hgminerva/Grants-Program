@@ -12,11 +12,15 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Humidefi is a blockchain platform that supports Smart Contracts and Decentralized Financial (DeFi) activities, e.g., stable coins, swaps, exchanges, loans, etc.
+Porting traditional game projects to Web3, which involves integrating blockchain and decentralized technologies, presents several challenges for game developers. 
+1. Scalability Issues: Blockchain networks, especially those that are decentralized, may face scalability challenges, leading to slower transaction speeds and higher fees. This can impact the user experience in games that require a high level of interactivity and responsiveness.
+2. User Onboarding and Complexity: Web3 games often require users to have a basic understanding of blockchain technology, wallets, and cryptocurrencies. Onboarding players who are new to these concepts can be challenging and may create a barrier to entry for mainstream audiences.
+3. Transaction Costs: Transactions on blockchain networks typically involve fees. In a gaming environment, where microtransactions are common, these fees can become a significant concern, especially if they are relatively high or unpredictable.
+4. Security Concerns: Blockchain transactions involve cryptographic keys, and the security of these keys is paramount. Developers must implement robust security measures to protect user assets and prevent unauthorized access or fraud.
+5. Interoperability Challenges: Achieving interoperability between different blockchain networks and standards can be complex. Developers may face challenges when trying to integrate assets or data from one blockchain into another.
 
-The main application on the Humidefi blockchain platform is XGame.  XGame provides a portal for virtual assets found in games and other multiverse activities to become real.  
+Humidefi is a Parachain in the Polkadot Ecosystem that has in-block Governance with Proof-Stake-Consensus mechanism, Smart Contracts and Decentralized Finace (DeFi) pallets and modules, e.g., stable coins, swaps, exchanges, loans, etc.  The main application of  Humidefi Parachain is XGame.  XGame provides a portal for game developers and virtual assets found in games and other multiverse activities to become real through the use of DeFi modules.
 
-On the first year of its operation, the Humidefi XGame node will integrate with Kusama then the succeding years would hopefully be Polkadot.  As more games being developed and deployed in XGame and more active users, our Decentralize Financial (DeFi) modules will eventually be deployed to help the users make the transfer from virtual to real.
 
 ### Project Details
 
@@ -87,7 +91,9 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
     5. Incentive Mechanisms for Developers: DeFi can be used to create incentive structures for game developers, such as yield farming or staking, encouraging active participation in the ecosystem and rewarding continuous development efforts.
     6. Decentralized Funding for Game Development: Explore decentralized lending and borrowing platforms to fund specific aspects of game development. This can provide an alternative to traditional funding sources and involve the community in supporting the project.
 4. [**Wemix**](https://www.wemix.com/wemix) - WEMIX3.0 is a high-performance EVM-compatible open source protocol powered by SPoA(Stake-based Proof of Authority) consensus algorithm which is secured by 40 decentralized authority nodes operated by highly-qualified global partners as well as on-chain community DAO(Decentralized Autonomous Organization). It is designed to be a robust and efficient platform-driven & service-oriented public blockchain home to innovative projects and applications built by community members and available to the world. 
-    1. Tokenization of In-Game Assets: Use DeFi protocols to tokenize in-game assets as NFTs (Non-Fungible Tokens). This provides players with true ownership, enabling them to buy, sell, or trade these assets on XGame NFT Marketplace.
+    1. Blockchain
+    2. Games
+    3. Community
 5. **XGame Strategy**
 
 ## Team :busts_in_silhouette:
