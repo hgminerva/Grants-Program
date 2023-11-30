@@ -71,10 +71,23 @@ On the first year of its operation, the Humidefi XGame node will integrate with 
 
 ### Ecosystem Fit
 
-1. **Polkado Ecosystem User Enabler**
-2. **Game Developers**
-3. **DeFi for Game Developers and Gamers**
-4. **Wemix**
+1. **Attract Users to Polkadot Ecosystem** - A gaming platform like XGame can bring users to Polkadot ecosystem through Humidefi Parachain.  With in-game assets as non-fungible tokens (NFTs). This provides users with true ownership of digital assets, and these NFTs can potentially be used across different projects within the Polkadot ecosystem.
+2. **Game Developers** - Simplifying entry into Web3 gaming and making it cost-effective through XGame involves a combination of user-friendly features, efficient onboarding processes, and strategic partnerships.  
+    1. User-Friendly Onboarding: Create a seamless and user-friendly onboarding process. Minimize the technical barriers for users to get started with Web3 gaming on XGame. This includes easy account creation, clear instructions, and a straightforward way for users to acquire any necessary cryptocurrency or tokens.
+    2. Wallet Integration: Build our own Mobile App Wallet. This can simplify the process of managing digital assets and interacting with the blockchain for users who may be new to Web3 gaming.
+    3. Gas Fee Optimization: Implement strategies to optimize or mitigate gas fees associated with blockchain transactions. 
+    4. Play-to-Earn Mechanics: Integrate play-to-earn mechanics that allow users to earn rewards or tokens by participating in the game. This incentive can attract users who are interested in earning value from their gaming activities.
+    5. Cross-Platform Accessibility: Ensure that XGame is accessible across various platforms, including desktop and mobile devices. This widens the potential user base and accommodates users with different preferences and devices.
+    6. Reduced Entry Costs: Explore ways to reduce the initial entry costs for users. This could involve providing starter packs, limited-time promotions, or discounted entry fees to encourage users to try out XGame without a significant upfront investment.
+3. **DeFi for Game Developers and Gamers** - DeFi (Decentralized Finance) offers game developers a range of opportunities to innovate, monetize, and enhance the gaming experience in Polkadot Ecosystem.
+    1. Tokenization of In-Game Assets: Use DeFi protocols to tokenize in-game assets as NFTs (Non-Fungible Tokens). This provides players with true ownership, enabling them to buy, sell, or trade these assets on XGame NFT Marketplace.
+    2. Decentralized Exchanges (DEX): XGame Exchange enables seamless trading of in-game assets and tokens. This allows players to trade within the game or across different games, fostering a more dynamic and open economy.
+    3. Play-to-Earn Models: Implement DeFi-based play-to-earn models where players can earn cryptocurrency or in-game tokens by participating in the game. This could involve completing quests, achieving milestones, or contributing to the overall game ecosystem.
+    4. Liquidity Pools for In-Game Tokens: Create liquidity pools for in-game tokens on DeFi platforms. This ensures liquidity and stability for the in-game economy, allowing players to easily buy or sell tokens without facing significant price slippage.
+    5. Incentive Mechanisms for Developers: DeFi can be used to create incentive structures for game developers, such as yield farming or staking, encouraging active participation in the ecosystem and rewarding continuous development efforts.
+    6. Decentralized Funding for Game Development: Explore decentralized lending and borrowing platforms to fund specific aspects of game development. This can provide an alternative to traditional funding sources and involve the community in supporting the project.
+4. [**Wemix**](https://www.wemix.com/wemix) - WEMIX3.0 is a high-performance EVM-compatible open source protocol powered by SPoA(Stake-based Proof of Authority) consensus algorithm which is secured by 40 decentralized authority nodes operated by highly-qualified global partners as well as on-chain community DAO(Decentralized Autonomous Organization). It is designed to be a robust and efficient platform-driven & service-oriented public blockchain home to innovative projects and applications built by community members and available to the world. 
+    1. Tokenization of In-Game Assets: Use DeFi protocols to tokenize in-game assets as NFTs (Non-Fungible Tokens). This provides players with true ownership, enabling them to buy, sell, or trade these assets on XGame NFT Marketplace.
 5. **XGame Strategy**
 
 ## Team :busts_in_silhouette:
