@@ -97,9 +97,8 @@ Humidefi is a Parachain in the Polkadot Ecosystem that has in-block Governance w
     5. Incentive Mechanisms for Developers: DeFi can be used to create incentive structures for game developers, such as yield farming or staking, encouraging active participation in the ecosystem and rewarding continuous development efforts.
     6. Decentralized Funding for Game Development: Explore decentralized lending and borrowing platforms to fund specific aspects of game development. This can provide an alternative to traditional funding sources and involve the community in supporting the project.
 4. [**Wemix**](https://www.wemix.com/wemix) - WEMIX3.0 is a high-performance EVM-compatible open source protocol powered by SPoA(Stake-based Proof of Authority) consensus algorithm which is secured by 40 decentralized authority nodes operated by highly-qualified global partners as well as on-chain community DAO(Decentralized Autonomous Organization). It is designed to be a robust and efficient platform-driven & service-oriented public blockchain home to innovative projects and applications built by community members and available to the world. 
-    1. Blockchain
-    2. Games
-    3. Community
+    1. Blockchain: WEMIX3.0 is a forked Ethereum independent blockchain source code while Humidefi is a side chain than runs in parallel with Polkadot (Parachain).  Being a parachain in the Polkadot network offers many advantages compared to being an independent blockchain, for example; Shared Security, Interoperability, Scalability, Economic Efficiency, Cross-Chain Token Transfers, Upgradability and Ease of Integration.
+    2. Applications: 
 5. **XGame Strategy**
 
 ## Team :busts_in_silhouette:
@@ -180,6 +179,11 @@ SEC No.: CS201811079
 
 ## Development Status :open_book:
 
+
+### Proof of Concept
+
+
+
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 - links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
@@ -198,11 +202,66 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 ### Overview
 
+| No. | Milestone | Target Completion |
+| -----: | ----------- | ------------- |
+| **1** | Humidefi | 2022 |
+| **2** | XGame | 2023 - 3rd Quarter |
+| **3** | DEVNET | 2023 - 4th Quarter |
+| **4** | TESTNET | 2024 - 1st Quarter |
+| **5** | MAINNET | 2024 - 2nd Quarter |
+| **6** | Game Developer Portal | 2024 - 4th Quarter |
+| **7** | DeFi Modules | 2025 |
+| **8** | PoS/DAO | 2026 |
+
 - **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
 - **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Basic functionality
+### Milestone 1 : Humidefi - The Parachain
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+
+### Milestone 2 : XGame - The Web3 Gaming Platform
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 3: DEVNET - XGame and Humidefi Integration
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 4: TESTNET - In-game Economy, Web3 Wallet and NFT Marketplace
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 5: MAINNET - Mobile Wallet, Payment Portal and Community Engagement
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 6: Game Developer Porta - Portal for Smart Contracts and Tokens
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 7: DeFi - Exchange, Swaps, Loans, and other DeFi applications
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+### Milestone 8: PoS / DAO - Change to PoS consensus with governance
+- **Estimated duration:** 1 month
+- **FTE:**  1,5
+- **Costs:** 8,000 USD
+
+
+
 
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
