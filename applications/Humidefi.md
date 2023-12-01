@@ -217,17 +217,21 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
 - **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 : Humidefi - The Parachain
+### Milestone 1 : Humidefi - The Parachain (Research and Development / Hackathons)
 - **Estimated duration:** 12 months
-- **FTE:**  1,5
+- **FTE:**  1
 - **Costs:** 5,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| **1.1** | Rust | Learn Rust as a team.|
-| **1.2** | Substrate | Clone Substrate Node Template and run a blockchain node.|
-| **1.3** | Polkadot.Js | Communicate to the blockchain node use Polkadot.Js libraries.|
-| **1.4** | Polkadot.Js | Communicate to the blockchain node use Polkadot.Js libraries.|
+| **1.1** | Rust | Learn Rust as a team. |
+| **1.2** | Substrate | Clone Substrate Node Template and run a blockchain node. |
+| **1.3** | Polkadot.Js | Communicate to the blockchain node use Polkadot.Js libraries. |
+| **1.4** | Humidefi App | Create a simple Angular Web App.  The initial objective is to connect a wallet and display the tokens and other assets. |
+| **1.5** | Smart Contract Support | Add smart contracts in the Substrate node template. |
+| **1.6** | DeFi Modules | Add a pallet_dex to the Substrate Node template. |
+| **1.7** | Humidefi App with DeFi | Modify the existing Angular Web App to include swaps other DeFi functionalities in the pallet_dex. |
+| **1.8** | ERC20 Smart Contract | Create and deploy an Ink! ERC20 Smart Contract to. |
 
 ### Milestone 2 : XGame - The Web3 Gaming Platform
 - **Estimated duration:** 1 month
@@ -255,14 +259,14 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 - **Costs:** 8,000 USD
 
 ### Milestone 7: DeFi - Exchange, Swaps, Loans, and other DeFi applications
-- **Estimated duration:** 1 month
+- **Estimated duration:** 12 Months
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Costs:** TBD
 
 ### Milestone 8: PoS / DAO - Change to PoS consensus with governance
-- **Estimated duration:** 1 month
+- **Estimated duration:** 12 Months
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Costs:** TBD
 
 
 
