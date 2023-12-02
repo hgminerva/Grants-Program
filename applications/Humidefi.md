@@ -179,26 +179,13 @@ SEC No.: CS201811079
 
 ## Development Status :open_book:
 
+(To do)
 
 ### Proof of Concept
 
-
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+(To do)
 
 ## Development Roadmap :nut_and_bolt:
-
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/Support%20Docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-> :exclamation: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Projects that submit other people's work without proper attribution will be immediately terminated.**
 
 ### Overview
 
@@ -213,10 +200,6 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 | **7** | DeFi Modules | 2025 |
 | **8** | PoS/DAO | 2026 |
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
-
 ### Milestone 1 : Humidefi - The Parachain (Research and Development / Hackathons)
 - **Estimated duration:** 12 months
 - **FTE:**  1
@@ -224,24 +207,54 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| **1.1** | Rust | Learn Rust as a team. |
-| **1.2** | Substrate | Clone Substrate Node Template and run a blockchain node. |
-| **1.3** | Polkadot.Js | Communicate to the blockchain node use Polkadot.Js libraries. |
-| **1.4** | Humidefi App | Create a simple Angular Web App.  The initial objective is to connect a wallet and display the tokens and other assets. |
-| **1.5** | Smart Contract Support | Add smart contracts in the Substrate node template. |
-| **1.6** | DeFi Modules | Add a pallet_dex to the Substrate Node template. |
-| **1.7** | Humidefi App with DeFi | Modify the existing Angular Web App to include swaps other DeFi functionalities in the pallet_dex. |
-| **1.8** | ERC20 Smart Contract | Create and deploy an Ink! ERC20 Smart Contract to. |
+| **1.01** | Rust | Learn Rust as a team. |
+| **1.02** | Substrate | Clone Substrate Node Template and run a blockchain node. |
+| **1.03** | Polkadot.Js | Communicate to the blockchain node use Polkadot.Js libraries. |
+| **1.04** | Humidefi App | Create a simple Angular Web App.  The initial objective is to connect a wallet and display the tokens and other assets. |
+| **1.05** | Smart Contract Support | Add smart contracts in the Substrate node template. |
+| **1.06** | DeFi Modules | Add a pallet_dex to the Substrate Node template. |
+| **1.07** | Humidefi App with DeFi | Modify the existing Angular Web App to include swaps other DeFi functionalities in the pallet_dex. |
+| **1.08** | ERC20 Smart Contract | Create and deploy an Ink! ERC20 Smart Contract. |
+| **1.09** | Cumulus | Converting the standalone blockchain to a Parachain. |
+| **1.10** | Relay Chain | Setting up a local Relay Chain that is needed by the Parachain. |
+| **1.11** | Parachain | Connecting the local Parachain to the local Relay Chain. |
+| **1.12** | Parachain Smart Contract | Add smart contracts to the Parachain. |
 
 ### Milestone 2 : XGame - The Web3 Gaming Platform
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Estimated duration:** 3 months
+- **FTE:**  9
+- **Costs:** 30,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **2.01** | XGame Requirements | XGame platform requirements and specifications analysis. |
+| **2.02** | Game Catalog | XGame game catalog overview and documentation. Identification of games that can be ported to Web3. |
+| **2.03** | Homepage | XGame Hompage using Angular. |
+| **2.04** | Game Catalog | XGame Game Catalog Page. |
+| **2.05** | Blogs | XGame Blog Page.  The content of the blog will be used to train the NLP chatbot. |
+| **2.06** | Admin Page | XGame Admin Page for blogs, translation and other internal web data. |
+| **2.07** | Homepage API | Rest API and corresponding database for the Homepage. |
+| **2.08** | Middle Tier API | Rest API for Parachain connectivity. |
+| **2.09** | Social Media Outlet | Create a social media outlet to start community engagement and to update the community on the status of XGame. |
+| **2.10** | Machine Learning | Develop a machine learning model for XGame support using the blogs and other information posted in the Homepage. 
+| **2.11** | Multi-language | XGame Homepage multi-language support and translation. |
+| **2.12** | NFT Marketplace | XGame NFT Marketplace web app user interface using Angular. |
+| **2.13** | Dashboard | XGame Dashboard web app user interface using Angular. |
+| **2.14** | Exchange | XGame Exchange web app user interface using Angular. |
+| **2.15** | Web Assets | Web Assets, e.g., posters, game logos and ads for XGame. |
+| **2.16** | Homepage V2.0 | Redesign the XGame Homepage and other pages to include the Web Assets. Make the entire site consistent in terms of design and containers. |
 
 ### Milestone 3: DEVNET - XGame and Humidefi Integration
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Estimated duration:** 3 months
+- **FTE:**  9
+- **Costs:** 30,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **3.01** | Parachain | Humidefi Parachain WASM file and headers for deployment. |
+| **3.02** | Humidefi-Genesis Node | Adding new node to the Humidefi Parachain. |
+| **3.03** | Humidefi-Genesis Chainspec | Humidefi-Genesis DEVNET chainspec preparation. |
+
 
 ### Milestone 4: TESTNET - In-game Economy, Web3 Wallet and NFT Marketplace
 - **Estimated duration:** 1 month
@@ -269,41 +282,9 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 - **Costs:** TBD
 
 
-
-
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
-
-> :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**, and deliverable 0e at least for the last one. 
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.) |
-| 1. | Substrate module: X | We will create a Substrate module that will... (Please list the functionality that will be implemented for the first milestone. You can refer to details provided in previous sections.) |
-| 2. | Substrate module: Y | The Y Substrate module will... |
-| 3. | Substrate module: Z | The Z Substrate module will... |
-| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
-| 5. | Library: ABC | We will deliver a JS library that will implement the functionality described under "ABC Library" |
-| 6. | Smart contracts: ... | We will deliver a set of ink! smart contracts that will...
-
-
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
-
-...
-
-
 ## Future Plans
 
-Please include here
+(To do)
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
