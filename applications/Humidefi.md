@@ -107,15 +107,6 @@ Humidefi is a Parachain in the Polkadot Ecosystem that has in-block Governance w
 
 ![Humidefi Team](https://drive.google.com/uc?id=1Mt8QcdfRsF6o0T5tpmGYBEaSJO9OW_CI)
 
-* Engr. Harold Glenn Minerva
-* Noah Oliver Rigonan
-* Oliver Enciso
-* Caesar Ditan
-* Ernesto Almario
-* Joel Villena
-* Michael Ian Kurt Descalso 
-* Richlyn Vergara
-
 ### Contact
 
 - **Contact Name:** Harold Glenn P Minerva
@@ -134,14 +125,15 @@ SEC No.: CS201811079
 
 ### Team's experience
 
-* Engr. Harold Glenn Minerva
-* Noah Oliver Rigonan
-* Oliver Enciso
-* Caesar Ditan
-* Ernesto Almario
-* Joel Villena
-* Michael Ian Kurt Descalso 
-* Richlyn Vergara
+* Harold Glenn Minerva - An engineer by education with a masters in business administration and a software architect by profession.  Over 25 years of software engineering and development at which he founded 3 software development companies wherein two were sold and one of which to a foreign investor.  He has expertise solid expertise on C#  and Dot Net framework, PHP and Laravel framework, Javascript and Angular framework, Phython for machine learning and data science and Rust for Web3 and Substrate platforms.  He also handled IT management using ISO 9001/27000 processes with solid background in ITIL and process engineering.  The only consultant in the southern part of the Philippines for SYSPRO ERP.
+* Noah Oliver Rigonan - 
+* Oliver Enciso - 
+* Caesar Ditan - Over 40 years of top-level management, business development, sales, and marketing experience in IT (information technology), the academic, broadcast, advertising, and entertainment industries in various domestic, regional, and global markets; award-winning songwriter and record producer Mango Jam: Best of New Cebu Music Volume One, 1992; Master of Management post-graduate degree from the University of the Philippines.
+* Ernesto Almario - A multifaceted professional with expertise across various domains in software engineering. As a Smart Contract Engineer, his proficiency extends to Front-end and Back-end development, showcasing his adeptness in technologies like TypeScript, Angular, Laravel, and Vue.js. His skill set includes Test-Driven Development, Git version control, and Manual Testing, ensuring robust and efficient software solutions. Ernesto's proficiency with Front-end engineer, Back-end engineer enables him to craft responsive web applications with meticulous attention to detail. With a keen eye for design using Figma and experience in Web Testing, he excels in creating user-centric, visually appealing, and functionally seamless applications. Ernesto's dedication to innovation and his comprehensive skill set make him a valuable asset in the realm of software engineering.
+* Joel Villena - An experienced software engineer with a wide range of skills. He specializes in the roles of software engineer, smart contract engineer, and back-end engineer with a focus on REST API development. He has an impressive record in software engineering, has proven to be competent about blockchain technology by developing and running smart contracts. As an experienced back-end engineer, he has created and managed RESTful APIs with success, guaranteeing smooth communication between various aspects of complex structures. He combines technical knowledge with a commitment to providing excellent solutions, and offers a lot of expertise to the area. He places an emphasis on innovation and keeps up with the latest developments in the sector.
+* Michael Ian Kurt Descalso - A versatile software engineer able to cover a wide range of roles, including but not limited to back-end APIs, web interfaces, and mobile applications. He has near 4 years of both freelancing and professional development experience combined under his wing. Michael has an interest in Linux systems and uses one on the daily. He has a particular preference for open-source and privacy respecting software, and keeps the philosophy in mind when building systems.
+* Richlyn Vergara - With a background in education and a successful licensure examination under her belt, I transitioned into a dynamic role as an Executive Assistant, specializing in project management. Over the course of two years, she honed her skills by spearheading Product Implementation for Payroll Systems, showcasing her proficiency in managing complex tasks and ensuring seamless project execution.  Currently, she pivoted her career to the cutting-edge realm of Quality Assurance for Web3 projects. In this role, she leverage her expertise to uphold the highest standards of quality in the ever-evolving landscape of Web3 technologies. My journey reflects a commitment to continuous growth and a versatile skill set that spans education, project management, and quality assurance in the tech industry.
+* Arneil Paul Polican - Skilled software developer with a proven track record spanning 3 years, specializing in VBA for SME client customization. Possesses 2+ years of expertise in both .NET Core and .NET Framework, along with 2+ years in Angular. Proficient in MSSQL with 5+ years of experience and a demonstrated ability to lead teams for over 2 years.
 
 ### Team Code Repos
 
