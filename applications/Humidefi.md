@@ -105,6 +105,8 @@ Humidefi is a Parachain in the Polkadot Ecosystem that has in-block Governance w
 
 ### Team members
 
+![Humidefi Team](https://drive.google.com/uc?id=1Mt8QcdfRsF6o0T5tpmGYBEaSJO9OW_CI)
+
 * Engr. Harold Glenn Minerva
 * Noah Oliver Rigonan
 * Oliver Enciso
@@ -262,7 +264,7 @@ SEC No.: CS201811079
 
 ### Milestone 4: TESTNET - In-game Economy, Web3 Wallet and NFT Marketplace
 - **Estimated duration:** 1 month
-- **FTE:**  1,5
+- **FTE:**  9
 - **Costs:** 30,000 USD
 
 | Number | Deliverable | Specification |
@@ -271,29 +273,29 @@ SEC No.: CS201811079
 | **4.02** | Humidefi-Genesis Chainspec | Humidefi-Genesis TESTNET chainspec preparation. |
 
 ### Milestone 5: MAINNET - Mobile Wallet, Payment Portal and Community Engagement
-- **Estimated duration:** 1 month
+- **Estimated duration:** 6 Months
 - **FTE:**  1,5
 - **Costs:** 100,000 USD
 
 TBD
 
 ### Milestone 6: Game Developer Porta - Portal for Smart Contracts and Tokens
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
+- **Estimated duration:** 6 Months
+- **FTE:**  9
 - **Costs:** 100,000 USD
 
 TBD
 
 ### Milestone 7: DeFi - Exchange, Swaps, Loans, and other DeFi applications
 - **Estimated duration:** 12 Months
-- **FTE:**  1,5
+- **FTE:**  9
 - **Costs:** 100,000 USD
 
 TBD
 
 ### Milestone 8: PoS / DAO - Change to PoS consensus with governance
 - **Estimated duration:** 12 Months
-- **FTE:**  1,5
+- **FTE:**  9
 - **Costs:** 100,000 USD
 
 TBD
