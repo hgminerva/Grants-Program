@@ -254,17 +254,28 @@ SEC No.: CS201811079
 | **3.01** | Parachain | Humidefi Parachain WASM file and headers for deployment. |
 | **3.02** | Humidefi-Genesis Node | Adding new node to the Humidefi Parachain. |
 | **3.03** | Humidefi-Genesis Chainspec | Humidefi-Genesis DEVNET chainspec preparation. |
-
+| **3.04** | DEVNET Deployment | DEVNET Deployment and Testing (c/o Infrastructure Provider). |
+| **3.05** | Wallet Integration | Polkadot Wallet Integration. |
+| **3.06** | NFT Marketplace DApp | Conversion of NFT Marketplace App to be able to connect to the Polkadot Wallet. |
+| **3.07** | Dashboard DApp | Conversion of Dashboard App to be able to connect to the Polkadot Wallet. |
+| **3.08** | ERC 721 | Creating of NFT contract using Ink! and deployment them to DEVNET. |
 
 ### Milestone 4: TESTNET - In-game Economy, Web3 Wallet and NFT Marketplace
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
 - **Costs:** 8,000 USD
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **4.01** | Homepage Redesign | XGame Homepage redesign. |
+| **4.02** | Humidefi-Genesis Chainspec | Humidefi-Genesis TESTNET chainspec preparation. |
+
 ### Milestone 5: MAINNET - Mobile Wallet, Payment Portal and Community Engagement
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
 - **Costs:** 8,000 USD
+
+
 
 ### Milestone 6: Game Developer Porta - Portal for Smart Contracts and Tokens
 - **Estimated duration:** 1 month
