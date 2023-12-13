@@ -263,7 +263,7 @@ SEC No.: CS201811079
 ### Milestone 4: TESTNET - In-game Economy, Web3 Wallet and NFT Marketplace
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Costs:** 30,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -273,14 +273,13 @@ SEC No.: CS201811079
 ### Milestone 5: MAINNET - Mobile Wallet, Payment Portal and Community Engagement
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
-
+- **Costs:** 100,000 USD
 
 
 ### Milestone 6: Game Developer Porta - Portal for Smart Contracts and Tokens
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
+- **Costs:** 100,000 USD
 
 ### Milestone 7: DeFi - Exchange, Swaps, Loans, and other DeFi applications
 - **Estimated duration:** 12 Months
@@ -295,23 +294,13 @@ SEC No.: CS201811079
 
 ## Future Plans
 
+Based on the timeline and objective of the project, that it will be the go-to Web3 platform for game developers and gamers, our future plan is to give the platform autonomy and scalability for its intended users.
+
+### Robust DeFi Modules
+
 (To do)
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+### Decentralized Autonomous Organization
 
-## Referral Program (optional) :moneybag: 
+(To do)
 
-You can find more information about the program [here](../README.md#moneybag-referral-program).
-- **Referrer:** Name of the Polkadot Ambassador or GitHub account of the Web3 Foundation grantee
-- **Payment Address:** BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-
-## Additional Information :heavy_plus_sign:
-
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
