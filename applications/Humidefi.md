@@ -275,22 +275,28 @@ SEC No.: CS201811079
 - **FTE:**  1,5
 - **Costs:** 100,000 USD
 
+TBD
 
 ### Milestone 6: Game Developer Porta - Portal for Smart Contracts and Tokens
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
 - **Costs:** 100,000 USD
 
+TBD
+
 ### Milestone 7: DeFi - Exchange, Swaps, Loans, and other DeFi applications
 - **Estimated duration:** 12 Months
 - **FTE:**  1,5
-- **Costs:** TBD
+- **Costs:** 100,000 USD
+
+TBD
 
 ### Milestone 8: PoS / DAO - Change to PoS consensus with governance
 - **Estimated duration:** 12 Months
 - **FTE:**  1,5
-- **Costs:** TBD
+- **Costs:** 100,000 USD
 
+TBD
 
 ## Future Plans
 
