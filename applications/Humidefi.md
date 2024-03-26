@@ -1,4 +1,4 @@
-# Humidefi (The XGame platform)
+# Humidefi
 
 - **Team Name:** Humidefi
 - **Payment Address:** [5CfWkGnSnG89mGm3HjSUYHfJrNKmeyWgix5NKAMqePu4csgP] USDC/Polkadot
